@@ -7,4 +7,4 @@ HTML5, CSS3
 * Адаптивная верстка
 * БЭМ-структура
 ### Ссылка для просмотра
-https://boyarkinev.github.io/praktikum/Russia/
+https://boyarkinev.github.io/russia/
